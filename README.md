@@ -1,6 +1,6 @@
 # Dungeon Escape v4 - Ultimate Edition
 
-![Dungeon Escape](https://raw.githubusercontent.com/KalebBennett014/DungeonEscape/main/assets/dungeon-escape-banner.png)  
+![Dungeon Escape](https://github.com/kalebbennett014/Portfolio/blob/main/dungeon-escape-banner.png)  
 *An immersive console-based adventure with audio and animation enhancements*
 
 ---
